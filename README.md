@@ -5,7 +5,7 @@
 The goal is to predict customer churn (i.e., whether a customer will leave the bank). Banks aim to retain customers for longer periods, as acquiring new customers is costlier. Understanding the key factors that contribute to customer churn can help in developing strategies to improve customer retention.
 
 ### Objective:
-Develop a machine learning model to predict the likelihood of a customer leaving the bank (churn). 
+Develop a deep learning - ANN model to predict the likelihood of a customer leaving the bank (churn). 
 
 ### Dataset Overview:
 This dataset has 10,000 records with following 14 attributes.          
