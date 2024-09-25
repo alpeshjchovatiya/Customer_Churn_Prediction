@@ -1,5 +1,5 @@
 ### Title: Customer Churn Prediction with ANN
-### Author: Alpesh Chovatiya
+### Author: Alpesh Chovatiya  
 
 ### Problem Statement:
 The goal is to predict customer churn (i.e., whether a customer will leave the bank). Banks aim to retain customers for longer periods, as acquiring new customers is costlier. Understanding the key factors that contribute to customer churn can help in developing strategies to improve customer retention.
